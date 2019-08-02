@@ -1,0 +1,2 @@
+# stm32_collective_intelligence
+collective intelligence script review
